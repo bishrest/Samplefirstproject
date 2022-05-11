@@ -1,1 +1,1 @@
-echo "This is my Jenkins fullcourse Tutorial. Finally, only after just selecting the ngrok ip address". 
+echo "This is my Jenkins fullcourse Tutorial. I am super happy now". 
